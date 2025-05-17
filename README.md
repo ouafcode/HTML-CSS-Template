@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-[Click here to view the website]([https://your-website-link.com](https://ouafcode.github.io/HTML-CSS-Template/))
+[Click here to view the website]([https://your-website-link.com](https://ouafcode.github.io/HTML-CSS-Template/)
 
 # Simple Portfolio Web Page
 

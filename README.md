@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+[Click here to view the website]([https://your-website-link.com](https://ouafcode.github.io/HTML-CSS-Template/))
+
 # Simple Portfolio Web Page
 
 This is a beginner-friendly web project built using **HTML** and **CSS**. The purpose of this project is to practice and learn the fundamentals of web development.
